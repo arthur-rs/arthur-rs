@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, my name is Arthur 👋
 
-<!--
-**arthur-rs/arthur-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+Since I was a child I've been passionate about computers until the moment I discovered programming and I've been in love since then I've always been improving my skills and gaining experience so always looking to be the best at what I do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My technologies
+
+<div>
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/typescript.png" />
+  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/react-native.png" />
+  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img alt="GitHub" src="https://img.icons8.com/fluent/48/000000/github.png" />
+  <img alt="NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+</div>
+
+## Github Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=arthur-rs&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-rs&layout=compact&theme=dracula&count_private=true&line_height=40">
